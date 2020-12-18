@@ -2,7 +2,7 @@
 //
 // Created by Marcus A. Mosley
 // Created on December 2020
-// This program displays a sprite on a Gameboy
+// This program displays a sprite on a GameBoy
 
 #include <stdio.h>
 #include <gb/gb.h>
